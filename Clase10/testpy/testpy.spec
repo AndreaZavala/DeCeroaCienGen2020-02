@@ -3,8 +3,8 @@
 block_cipher = None
 
 
-a = Analysis(['insta.py'],
-             pathex=['/Users/HaydeML/DeCeroaCienGen2020-01/Clase10/testpy'],
+a = Analysis(['testpy.py'],
+             pathex=['/Users/HaydeML/DeCeroaCienGen2020-02/Clase10/testpy'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -23,7 +23,7 @@ exe = EXE(pyz,
           a.zipfiles,
           a.datas,
           [],
-          name='insta',
+          name='testpy',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
@@ -31,6 +31,6 @@ exe = EXE(pyz,
           runtime_tmpdir=None,
           console=False )
 app = BUNDLE(exe,
-             name='insta.app',
+             name='testpy.app',
              icon=None,
              bundle_identifier=None)

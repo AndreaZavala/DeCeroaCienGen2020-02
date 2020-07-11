@@ -73,6 +73,6 @@ def whatNumIsThis(filePath):
 
     plt.show()
 
-createExamples()
-#whatNumIsThis('images/test.png')
-whatNumIsThis('images/test.png')
+#createExamples()
+whatNumIsThis('images/test3.png')
+# whatNumIsThis('images/test.png')

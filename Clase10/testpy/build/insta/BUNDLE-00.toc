@@ -1,3 +1,0 @@
-([('insta',
-   '/Users/HaydeML/DeCeroaCienGen2020-01/Clase10/testpy/dist/insta',
-   'EXECUTABLE')],)

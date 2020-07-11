@@ -1,0 +1,3 @@
+([('testpy',
+   '/Users/HaydeML/DeCeroaCienGen2020-02/Clase10/testpy/dist/testpy',
+   'EXECUTABLE')],)
